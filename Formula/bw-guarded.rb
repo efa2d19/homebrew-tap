@@ -3,7 +3,7 @@ class BwGuarded < Formula
   desc "Bitwarden CLI overhead to make it guarded with root password and GPG"
   homepage "https://github.com/Drugsosos/bw-guarded"
   url "https://github.com/Drugsosos/bw-guarded/archive/refs/tags/#{version}.tar.gz"
-  sha256 "85779750025385cbf808dffe10fb262893e71e9e713190a5993e16498958635e"
+  sha256 "1be527e943e5b740eb16864aae88e502027284753a85165155ba9813bed2a87a"
 
   depends_on "gnupg"
   depends_on "bitwarden-cli"
