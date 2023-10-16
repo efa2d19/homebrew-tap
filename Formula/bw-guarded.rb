@@ -1,5 +1,5 @@
 class BwGuarded < Formula
-  version "1.0.0"
+  version "1.0.1"
   desc "Bitwarden CLI overhead to make it guarded with root password and GPG"
   homepage "https://github.com/Drugsosos/bw-guarded"
   url "https://github.com/Drugsosos/bw-guarded/archive/refs/tags/#{version}.tar.gz"
