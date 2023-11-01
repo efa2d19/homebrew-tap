@@ -10,7 +10,7 @@ class Httpserve < Formula
   depends_on "python@3.12"
 
   def install
-    virtualenv_install_with_resources
+    bin.install "httpServe"
   end
 
   def caveats
