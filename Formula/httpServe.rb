@@ -1,4 +1,4 @@
-class HttpServe < Formula
+class Httpserve < Formula
   include Language::Python::Virtualenv
   
   version "1.0.0"
