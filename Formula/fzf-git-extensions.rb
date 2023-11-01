@@ -6,7 +6,7 @@ class FzfGitExtensions < Formula
   sha256 "11b2bc1d40073dece816e1c25f6326dd7af4295bde60a9faecab43f8803c5f36"
 
   depends_on "fzf"
-  depends_on "delta" => :recommended
+  depends_on "git-delta" => :recommended
   depends_on "bat" => :recommended
   depends_on "micro" => :recommended
 
