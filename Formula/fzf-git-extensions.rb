@@ -1,4 +1,4 @@
-class FZFGitExtensions < Formula
+class FzfGitExtensions < Formula
   version "1.0.0"
   desc "Quick Git actions using fzf"
   homepage "https://github.com/Drugsosos/fzf-git-extensions"
