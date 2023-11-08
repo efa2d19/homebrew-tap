@@ -1,9 +1,9 @@
 class FzfGitExtensions < Formula
-  version "1.0.3"
+  version "1.0.4"
   desc "Quick Git actions using fzf"
   homepage "https://github.com/Drugsosos/fzf-git-extensions"
   url "https://github.com/Drugsosos/fzf-git-extensions/archive/refs/tags/#{version}.tar.gz"
-  sha256 "739352aa96adec91a783f73ffa007f2e63f6be751b338f3d37e3904c1f0bc001"
+  sha256 "5a7fcbd3a73d93be36cad6e8b3572c79ab1657a5c0e3146baf25808cb5220b69"
 
   depends_on "fzf"
   depends_on "git-delta" => :recommended
