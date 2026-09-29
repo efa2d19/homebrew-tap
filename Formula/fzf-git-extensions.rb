@@ -14,5 +14,6 @@ class FzfGitExtensions < Formula
     bin.install "gdsi"
     bin.install "gsti"
     bin.install "gswi"
+    bin.install "gstli"
   end
 end
